@@ -1,2 +1,2 @@
-# Scrimba-HTML-CSS
+# Scrimba
 Learning HTML and CSS Fundamentals on Scrimba
