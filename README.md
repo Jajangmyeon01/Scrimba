@@ -8,9 +8,9 @@
 ⦁ <br>
 
 <div align="center">🌟 Projects
-Below are some of the projects I've created, categorized based on the languages and technologies used. All images are stored in this repository and referenced directly.
+Below are some of the projects I've created, categorized based on the languages and technologies used. All images are stored in this repository and referenced directly. 
 
-🖥️ HTML, CSS & JavaScript
+🖥️ HTML, CSS & JavaScript <br>
 <img src="/public/assets/WebAndTablet1.png" alt="Web UI Mockup" width="70%">
 
 </div>
