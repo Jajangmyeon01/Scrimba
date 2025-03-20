@@ -24,13 +24,13 @@
 
 <h3 align="center">🖥️ HTML & CSS Projects</h3>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/Personal-Website.png" 
-       alt="Personal Website Image" width="40%" style="border-radius: 10px; margin: 10px;">
+       alt="Personal Website Image" width="30%" style="border-radius: 10px;">
   
   <img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/google-clone-project.png" 
-       alt="Google Clone Project Image" width="40%" style="border-radius: 10px; margin: 10px;">
+       alt="Google Clone Project Image" width="30%" style="border-radius: 10px;">
   
   <img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/daily-dribble-newsletter.png" 
-       alt="Daily Dribble Newsletter" width="40%" style="border-radius: 10px; margin: 10px;">
+       alt="Daily Dribble Newsletter" width="30%" style="border-radius: 10px;">
 </div>
