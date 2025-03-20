@@ -12,5 +12,6 @@ Below are some of the projects I've created, categorized based on the languages 
 
 🖥️ HTML, CSS & JavaScript <br>
 <img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/Personal-Website.png" alt="Personal Website Image" width="50%">
-
+<img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/google-clone-project.png" alt="Google Clone Project Image" width="50%">
+<img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/daily-dribble-newsletter.png" alt="Daily Dribble Newsletter" width="50%">
 </div>
