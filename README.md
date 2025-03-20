@@ -22,7 +22,7 @@
   All images are stored in this repository and referenced directly. 
 </p>
 
-<h3 align="center">🖥️ HTML, CSS & JavaScript Projects</h3>
+<h3 align="center">🖥️ HTML & CSS Projects</h3>
 
 <div align="center">
   <img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/Personal-Website.png" 
