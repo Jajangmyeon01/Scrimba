@@ -11,6 +11,6 @@
 Below are some of the projects I've created, categorized based on the languages and technologies used. All images are stored in this repository and referenced directly. 
 
 🖥️ HTML, CSS & JavaScript <br>
-<img src="/public/assets/WebAndTablet1.png" alt="Web UI Mockup" width="70%">
+<img src="Scrimba/HTML AND CSS/assets/images/HTML-CSS/Personal-Website.png" alt="Personal Website Image" width="50%">
 
 </div>
