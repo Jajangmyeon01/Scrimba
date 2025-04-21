@@ -1,0 +1,67 @@
+.main {
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-stadium {
+    width: 380px;
+    margin-top: 25px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid black;
+    
+}
+
+.content-paragraph {
+    width: 380px;
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-content {
+    width: 150px;
+    display: block;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid #222222;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+.btn {
+    width: 210px;
+    height: 35px;
+    display: block;
+    border: 3px solid #222222;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    background: black;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    padding-left: 8px;
+    font-size: 15px;
+}
+
+.read-content {
+    text-align: center;
+}
+
+.terms-content {
+    color: #222222;
+}
+
