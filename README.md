@@ -43,6 +43,6 @@
   <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/exploration-site.png" 
        alt="Daily Dribble Newsletter" width="30%" style="border-radius: 10px;">
 
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/web-agency-hero" 
+  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/web-agency-hero.png" 
        alt="Daily Dribble Newsletter" width="30%" style="border-radius: 10px;">
 </div>
