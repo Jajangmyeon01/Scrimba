@@ -26,28 +26,23 @@
 
 <h3 align="center">🖥️ HTML & CSS Projects</h3>
 
-<div align="center">
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/Personal-Website.png" 
-       alt="Personal Website" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/google-clone-project.png" 
-       alt="Google Clone" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/daily-dribble-newsletter.png" 
-       alt="Newsletter Project" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/business-card.png" 
-       alt="Business Card" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/amazon-product-page.png" 
-       alt="Amazon Product Page" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/exploration-site.png" 
-       alt="Exploration Site" width="250" style="margin: 8px;" />
-
-  <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/web-agency-hero.png" 
-       alt="Web Agency Hero Section" width="250" style="margin: 8px;" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/Personal-Website.png" width="200" /></td>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/google-clone-project.png" width="200" /></td>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/daily-dribble-newsletter.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/business-card.png" width="200" /></td>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/amazon-product-page.png" width="200" /></td>
+    <td><img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/exploration-site.png" width="200" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="Scrimba/HTML AND CSS/assets/images/Html-css_Image-Projects/web-agency-hero.png" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,4 +50,3 @@
 
 > I'm grateful to Scrimba and the web dev community for the guidance and motivation throughout my learning journey.  
 > Follow my GitHub to see more projects coming soon!
-
